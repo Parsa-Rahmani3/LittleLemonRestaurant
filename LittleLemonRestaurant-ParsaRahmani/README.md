@@ -30,6 +30,4 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Author
 
-- [Ephrem Getachew](https://github.com/Ephrem2166)
-
-# Parsa Rahmani
+- [Parsa Rahmani](https://github.com/Parsa-Rahmani3)
